@@ -9,4 +9,4 @@ __pycache__/
 # 기타 민감한 파일들 (혹시 모를 원본 데이터)
 *.json
 *.csv
-*.xlsx
+*.xlsxnode_modules/
