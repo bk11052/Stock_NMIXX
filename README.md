@@ -14,7 +14,7 @@ NMIXX는 그에게 어떤 존재일까.
 ## 🛠️ Tech Stack
 - **Language**: Python 3.x
 - **Libraries**: `pandas`, `yfinance`, `matplotlib`, `scipy`
-- **Data Source**: 개인 인스타그램(버블) JSON, Yahoo Finance
+- **Data Source**: 개인 인스타그램 DM JSON, Yahoo Finance
 
 ## ⚙️ Data Pipeline
 1. **01_extract_dms.py**: 원본 JSON에서 엔믹스 멤버별 DM 데이터 추출 및 일일 빈도 계산.
@@ -49,7 +49,7 @@ NMIXX는 그에게 어떤 존재일까.
 ---
 
 ## 🏆 Conclusion
-데이터 분석 결과, 그에게 엔믹스는 단순한 연예인을 넘어 **주식 시장의 하락장에서 멘탈을 잡아주는 '정서적 안전자산'**임이 입증되었습니다. 
+데이터 분석 결과, 그에게 엔믹스는 단순한 연예인을 넘어 주식 시장의 하락장에서 멘탈을 잡아주는 '정서적 안전자산'임이 입증되었습니다. 
 
 ---
 *주의: 본 프로젝트의 데이터(data/)는 개인정보 보호를 위해 비공개 처리되었습니다.*
